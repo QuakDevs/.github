@@ -86,8 +86,8 @@ Fique à vontade para explorar, contribuir ou abrir issues 🚀
 Se quiser conversar, propor parcerias ou trocar ideias:
 
 🌐 Website: [https://www.quakdev.com.br](https://www.quakdev.com.br)
-📧 E-mail: [devquak@gmail.com](devquak@gmail.com) 
-💼 GitHub: [https://github.com/QuakDev](https://github.com/QuakDevs)  
+📧 E-mail: [devquak@gmail.com](mailto:devquak@gmail.com) 
+💼 GitHub: [https://github.com/QuakDevs](https://github.com/QuakDevs)  
 
 ---
 
